@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
 html {
   box-sizing: border-box;
@@ -51,7 +51,7 @@ h1 {
   h1 {
     font-size: 20px;
   }
-  
+
   .image-container {
     margin: 10px;
   }
