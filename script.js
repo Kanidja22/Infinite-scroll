@@ -8,8 +8,6 @@ let imagesLoaded = 0;
 let totalImages = 0;
 let photosArray = [];
 
-
-
 // Unplash API
 let count = 5;
 const apiKey = 'ezZe-0fn1PQNsRQX4UEVITu05ElWA0Pmf8bS0CN8AWA';
